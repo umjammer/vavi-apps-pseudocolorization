@@ -107,8 +107,8 @@ Log.d("FlowViewActivity", "select 1: " + position);
         setResult(RESULT_OK, resultIntent);
     }
 
+    /** */
     private void load(final int defaultSelection) {
-        // data
         DownloadTask<Void, List<Item>> task = null;
         task = new DefaultDawnloadTask<Void, List<Item>>(this, "Network Error") {
             @Override
