@@ -36,8 +36,8 @@
 
 # GPL
 
-このリポジトリには KLab iPhoroid UI のソースコードが含まれておりません。
-KLab iPhoroid UI のソースコードは<a href="https://www.klab.jp/iphoroid/download.html">ここ</a>から取得してください。
+このリポジトリには [KLab iPhoroid UI](https://github.com/KLab/iPhoroidUI) のソースコードが含まれておりません。
+KLab iPhoroid UI のソースコードは<a href="https://github.com/KLab/iPhoroidUI">ここ</a>から取得してください。
 
 # JSE version
 
