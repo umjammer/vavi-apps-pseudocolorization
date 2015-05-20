@@ -30,7 +30,7 @@
 
 ~~自動着色ロジックが遅すぎですね。 JNI にしないと...~~
 
-`set/getPixel` をループから出して `set/getPixels` に<a href="http://code.google.com/p/vavi-apps-pseudocoloriztion/source/diff?spec=svn4f9ce54df43602c48bf69acf38c82bc824bbd01c&r=4f9ce54df43602c48bf69acf38c82bc824bbd01c&format=side&path=/src/vavi/apps/pseudocoloriztion/ColorCurveOp.java">したら</a>だいぶましになった。
+`set/getPixel` をループから出して `set/getPixels` に<a href="https://github.com/umjammer/vavi-apps-pseudocolorization/commit/4f9ce54df43602c48bf69acf38c82bc824bbd01c#diff-336237e6cf1498512c051d172fcd73ee">したら</a>だいぶましになった。
 
 あと、日本のコミックはページ送りが逆だった...orz
 
@@ -41,5 +41,5 @@ KLab iPhoroid UI のソースコードは<a href="https://www.klab.jp/iphoroid/d
 
 # JSE version
 
-* http://code.google.com/p/vavi-image/source/browse/trunk/vavi-image-sandbox/src/main/java/vavix/awt/image/color/ColorCurveOp.java
-* http://code.google.com/p/vavi-image/source/browse/trunk/vavi-image-sandbox/src/test/java/vavix/awt/image/color/ColorCurveOpTest.java
+* https://github.com/umjammer/vavi-image/blob/master/vavi-image-sandbox/src/main/java/vavix/awt/image/color/ColorCurveOp.java
+* https://github.com/umjammer/vavi-image/blob/master/vavi-image-sandbox/src/test/java/vavix/awt/image/color/ColorCurveOpTest.java
