@@ -41,5 +41,5 @@ KLab iPhoroid UI のソースコードは<a href="https://github.com/KLab/iPhoro
 
 # JSE version
 
-* https://github.com/umjammer/vavi-image/blob/master/vavi-image-sandbox/src/main/java/vavix/awt/image/color/ColorCurveOp.java
-* https://github.com/umjammer/vavi-image/blob/master/vavi-image-sandbox/src/test/java/vavix/awt/image/color/ColorCurveOpTest.java
+* https://github.com/umjammer/vavi-image-sandbox/blob/master/src/main/java/vavix/awt/image/color/ColorCurveOp.java
+* https://github.com/umjammer/vavi-image-sandbox/blob/master/src/test/java/vavix/awt/image/color/ColorCurveOpTest.java
